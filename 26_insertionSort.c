@@ -33,6 +33,8 @@ int main(){
     printArray(arr,n);
     insertionSort(arr,n);
     printArray(arr,n);
+
+    printf("Hello World");
     
     return 0;
 }
