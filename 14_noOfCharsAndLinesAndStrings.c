@@ -6,6 +6,7 @@ int main(){
 
     printf("Enter the text\n");
     gets(text);
+    printf("Helloworld\n");
 
     int num;
     int letters = 0;
